@@ -946,6 +946,19 @@
     /* border: 1px solid blue; */
 }
 
+.svg-box-img {
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+.svg-box-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    /* border: 1px solid red; */
+}
+
 
 .second-preview-kuda-section {
     height: 70%;
@@ -2515,7 +2528,7 @@ margin-bottom: 36px;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 1px solid blue; */
+    border: 1px solid blue;
 }
 
 .section-container {
@@ -2579,6 +2592,19 @@ margin-bottom: 36px;
     justify-content: center;
     align-items: center;
     /* border: 1px solid blue; */
+}
+
+.svg-box-img {
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid red; */
+}
+
+.svg-box-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    /* border: 1px solid red; */
 }
 
 .section-container {
